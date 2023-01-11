@@ -10,7 +10,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to Hello World");
+            Console.WriteLine("Making the chnges in Main");
+            Console.WriteLine("Conflict from local changes");
             Console.ReadLine();
         }
     }
